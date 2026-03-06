@@ -1,4 +1,4 @@
-# Hi, I'm Yerzhan Esentayev
+# Hi, I'm Yerzhan Yesentayev
 
 Undergraduate student in Intelligent Systems and Control Engineering at Al-Farabi Kazakh National University.
 
