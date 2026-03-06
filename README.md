@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yerzhan Esentayev
 
-<!--
-**yerzhan-esentayev/yerzhan-esentayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student in Intelligent Systems and Control Engineering at Al-Farabi Kazakh National University.
 
-Here are some ideas to get you started:
+## Research interests
+- Machine Learning
+- Computer Vision
+- Robotics
+- Algorithms
+- Intelligent Control Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical skills
+- Python
+- C++
+- MATLAB
+- HTML/CSS/JavaScript
+- OpenCV
+- TensorFlow
+- scikit-learn
+- Arduino Nano
+- ESP32-C3
+
+## Selected projects
+- Intelligent UAV Monitoring and Analysis Web Application
+- Machine Learning for Image Classification
+- Reinforcement Learning for CartPole Control
+- Pathfinding Algorithms on Grid Mazes
+- Real-Time Object Tracking
